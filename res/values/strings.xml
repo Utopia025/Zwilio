@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zwilio</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_start_new_adventure">Start a New Adventure!</string>
+    <string name="str_view_archive">View Recent Adventures</string>
+    <string name="str_adventure_title">Title of Adventure:</string>
+    <string name="str_adventure_start_date">Start Date:</string>
+    <string name="str_adventure_start_time">Start Time:</string>
+    <string name="str_adventure_end_date">End Date:</string>
+    <string name="str_adventure_end_time">End Time:</string>
+    <string name="btn_adventure_start_date">Select Start Date</string>
+    <string name="btn_adventure_start_time">Select Start Time</string>
+    <string name="btn_adventure_end_date">Select End Date</string>
+    <string name="btn_adventure_end_time">Select End Time</string>
+    <string name="btn_schedule_adventure">Schedule Adventure</string>
+    <string name="title_activity_adventure_set_up">Create a New Adventure</string>
+    <string name="title_activity_adventure_archive">My Adventures</string>
+    <string name="hint_adventure_title">Adventure Title</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_adventure_service">AdventureService</string>
+    <string name="title_adventure_locator">AdventureLocator</string>
+    <string name="title_class_observersmsout">ObserverSMSOut</string>
+    <string name="title_class_gmap">GMap</string>
+    
+    
+</resources>
